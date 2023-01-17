@@ -1,0 +1,38 @@
+/*  sass template */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Raleway:ital,wght@1,300&family=Rubik&display=swap");
+/*global__classes*/
+button, button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/*typography__classes*/
+.font-inter {
+  font-family: "Inter", sans-serif;
+}
+
+.font-raleway {
+  font-family: "Raleway", sans-serif;
+}
+
+.font-rubik {
+  font-family: "Rubik", sans-serif;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
